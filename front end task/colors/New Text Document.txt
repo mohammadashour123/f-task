@@ -1,0 +1,11 @@
+border color 
+#E8DDDD
+
+blue
+#3F8CFF
+
+red 
+#C93535
+
+text in about 
+#94979A
